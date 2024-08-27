@@ -1,1 +1,1 @@
-from .error_codes import ErrorCodesScheme
+from .status_codes import StatusCodesScheme

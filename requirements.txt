@@ -1,3 +1,5 @@
 kink
 pydantic
+pydantic-settings
 pytz
+python-dotenv
